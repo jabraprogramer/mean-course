@@ -1,0 +1,12 @@
+
+botton {
+  background-color: #F54545;
+  color: #F54545;
+}
+mat-raised-button {
+  background-color: #F54545;
+  color: #F54545;
+}
+main{
+   margin-top: 2rem; /*  1rem = 16px */
+}
