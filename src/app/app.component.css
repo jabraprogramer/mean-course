@@ -9,4 +9,6 @@ mat-raised-button {
 }
 main{
    margin-top: 2rem; /*  1rem = 16px */
+   width: 80%;
+   margin: auto;
 }

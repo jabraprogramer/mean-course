@@ -14,6 +14,7 @@ import { PostCreateComponent } from './posts/post-create/post-create.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
 import { PostListComponent } from './posts/post-list/post-list.component';
+import { HomeComponent } from './home/home.component';
 //import {MatToolbarModule} from '@angular/material/toolbar';
 
 @NgModule({
@@ -21,7 +22,8 @@ import { PostListComponent } from './posts/post-list/post-list.component';
     AppComponent,
     PostCreateComponent,
     HeaderComponent,
-    PostListComponent
+    PostListComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
